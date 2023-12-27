@@ -1,0 +1,11 @@
+C:\Users\tverd\Desktop\actix-api-master\actix-api-master\target\release\deps\libyaml_rust-8566eb086a5a3e0d.rmeta: C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\lib.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\emitter.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\parser.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\scanner.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\yaml.rs
+
+C:\Users\tverd\Desktop\actix-api-master\actix-api-master\target\release\deps\libyaml_rust-8566eb086a5a3e0d.rlib: C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\lib.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\emitter.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\parser.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\scanner.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\yaml.rs
+
+C:\Users\tverd\Desktop\actix-api-master\actix-api-master\target\release\deps\yaml_rust-8566eb086a5a3e0d.d: C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\lib.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\emitter.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\parser.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\scanner.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\yaml.rs
+
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\lib.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\emitter.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\parser.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\scanner.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\yaml.rs:

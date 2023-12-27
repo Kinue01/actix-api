@@ -1,0 +1,11 @@
+C:\Users\tverd\Desktop\actix-api-master\actix-api-master\target\debug\deps\libbitflags-d735e2b755c6d851.rmeta: C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\lib.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\iter.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\parser.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\traits.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\public.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\internal.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\external.rs
+
+C:\Users\tverd\Desktop\actix-api-master\actix-api-master\target\debug\deps\bitflags-d735e2b755c6d851.d: C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\lib.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\iter.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\parser.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\traits.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\public.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\internal.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\external.rs
+
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\lib.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\iter.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\parser.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\traits.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\public.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\internal.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\external.rs:

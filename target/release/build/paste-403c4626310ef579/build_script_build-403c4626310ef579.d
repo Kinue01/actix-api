@@ -1,0 +1,5 @@
+C:\Users\tverd\Desktop\actix-api-master\actix-api-master\target\release\build\paste-403c4626310ef579\build_script_build-403c4626310ef579.exe: C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paste-1.0.14\build.rs
+
+C:\Users\tverd\Desktop\actix-api-master\actix-api-master\target\release\build\paste-403c4626310ef579\build_script_build-403c4626310ef579.d: C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paste-1.0.14\build.rs
+
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paste-1.0.14\build.rs:

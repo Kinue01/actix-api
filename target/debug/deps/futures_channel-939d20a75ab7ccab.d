@@ -1,0 +1,10 @@
+C:\Users\tverd\Desktop\actix-api-master\actix-api-master\target\debug\deps\libfutures_channel-939d20a75ab7ccab.rmeta: C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lib.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lock.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\mod.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\queue.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\sink_impl.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\oneshot.rs
+
+C:\Users\tverd\Desktop\actix-api-master\actix-api-master\target\debug\deps\futures_channel-939d20a75ab7ccab.d: C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lib.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lock.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\mod.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\queue.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\sink_impl.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\oneshot.rs
+
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lib.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lock.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\mod.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\queue.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\sink_impl.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\oneshot.rs:

@@ -1,0 +1,10 @@
+C:\Users\tverd\Desktop\actix-api-master\actix-api-master\target\debug\deps\libpostgres_types-d853afd36e8c90f4.rmeta: C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.1.3\src\lib.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.1.3\src\private.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.1.3\src\special.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.1.3\src\type_gen.rs
+
+C:\Users\tverd\Desktop\actix-api-master\actix-api-master\target\debug\deps\libpostgres_types-d853afd36e8c90f4.rlib: C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.1.3\src\lib.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.1.3\src\private.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.1.3\src\special.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.1.3\src\type_gen.rs
+
+C:\Users\tverd\Desktop\actix-api-master\actix-api-master\target\debug\deps\postgres_types-d853afd36e8c90f4.d: C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.1.3\src\lib.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.1.3\src\private.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.1.3\src\special.rs C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.1.3\src\type_gen.rs
+
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.1.3\src\lib.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.1.3\src\private.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.1.3\src\special.rs:
+C:\Users\tverd\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.1.3\src\type_gen.rs:
